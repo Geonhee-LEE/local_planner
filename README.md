@@ -12,3 +12,4 @@
 - [MPC, Pure pursuit](https://github.com/Hypha-ROS/hypharos_minicar)
 - [AgriBot-Local-Planner](https://github.com/alirezaahmadi/AgriBot-Local-Planner)
 - [DWB](http://wiki.ros.org/robot_navigation)
+- [cadrl_ros](https://github.com/mit-acl/cadrl_ros)
