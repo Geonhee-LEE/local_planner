@@ -1,6 +1,3 @@
-# local_planner-
-
-
 # Local planner list
 
 ## ROS based planner(base_local_planner)
