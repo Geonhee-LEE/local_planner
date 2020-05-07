@@ -14,7 +14,7 @@
 
         As it uses the global plan to move around obstacles that plan needs to be updated continuously. →글로벌 플랜을 따라가기만 하므로 글로벌 플랜이 지속적으로 업데이트 되어야함.
 
-        ![Local%20planner/Untitled.png](Local%20planner/Untitled.png)
+        ![../assets/img/Untitled.png](../assets/img/Untitled.png)
 
         - 2.1 Phases
             - The planner is divided into three phases after setting a new goal:
@@ -29,7 +29,7 @@
 
             How the calculation of the velocity works can be seen in the following picture:
 
-            ![Local%20planner/Untitled%201.png](Local%20planner/Untitled%201.png)
+            ![../assets/img/Untitled%201.png](../assets/img/Untitled%201.png)
 
             - The planner goes along the global plan until the maximal distance or angle is reached.
             - With this maximal distance or angle calculates the planner the velocity of the robot to follow the global plan.
@@ -41,7 +41,7 @@
             - The slow down factor is only used at the 3. Phase of the planning, also at the rotation to the goal orientation. It allows to correct the braking characteristics at the end of rotation to prevent a apprupt brake. This can indebted by difference between calculated velocity and real driven velocity (The motor control could produce other velocities than required).
             - In this pictures you can see the function graph of the slow down factor. The first one depicts braking without a slow down factor -> the robot rotates a long time with minimal rotation velocity. With the slow down factor in the second picture the robot rotates not as long with a minimal rotation velocity.
 
-                ![Local%20planner/Untitled%202.png](Local%20planner/Untitled%202.png)
+                ![../assets/img/Untitled%202.png](../assets/img/Untitled%202.png)
 
         - 2.4 Safety function
             - The planner has a safety function. The robot doesn't drive to an area which is near an obstacle.
