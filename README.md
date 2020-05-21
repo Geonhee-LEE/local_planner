@@ -8,8 +8,10 @@
 - [denmpc](https://github.com/snt-robotics/denmpc)
 - [MPC-ROS-Wrapper](https://github.com/arunabh1904/MPC-ROS-Wrapper)
 - [mpc](https://github.com/afb2001/mpc)
-- [lattice_planner](https://github.com/larics/lattice_planner)
 - [MPC, Pure pursuit](https://github.com/Hypha-ROS/hypharos_minicar)
 - [AgriBot-Local-Planner](https://github.com/alirezaahmadi/AgriBot-Local-Planner)
 - [DWB](http://wiki.ros.org/robot_navigation)
 - [cadrl_ros](https://github.com/mit-acl/cadrl_ros)
+
+## ROS based planner(global planner)
+- [lattice_planner](https://github.com/larics/lattice_planner)
