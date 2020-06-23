@@ -15,3 +15,11 @@
 
 ## ROS based planner(global planner)
 - [lattice_planner](https://github.com/larics/lattice_planner)
+
+
+# Multi-Robot, Collision avoidance
+
+- [Dynamic Window approach]()
+- [Velocity obstacles (VO)]()
+- [Reciprocal Velocity Obstacles (RVO)]()
+- [Optimal reciprocal collision avoidance (ORCA)]()
